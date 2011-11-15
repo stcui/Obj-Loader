@@ -1,0 +1,411 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2006 Google, Inc.
+
+newmtl TwinRear1_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.560784 0.603922 0.607843
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/TwinRear1_1.jpg
+
+newmtl FrontRSideXY
+Ka 0.000000 0.000000 0.000000
+Kd 0.654902 0.682353 0.674510
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/FrontRSideXY.jpg
+
+newmtl Photo_Texture1
+Ka 0.000000 0.000000 0.000000
+Kd 0.211765 0.227451 0.219608
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Photo_Texture1.jpg
+
+newmtl TwinL1
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.443137 0.478431
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/TwinL1.jpg
+
+newmtl TwinRear1_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.572549 0.560784
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/TwinRear1_2.jpg
+
+newmtl TwinFront1_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.619608 0.607843
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/TwinFront1_2.jpg
+
+newmtl TwinFront1_2_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.619608 0.607843
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/TwinFront1_2_1_.jpg
+
+newmtl TwinFront1_2_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.619608 0.607843
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/TwinFront1_2_2_.jpg
+
+newmtl TwinR1
+Ka 0.000000 0.000000 0.000000
+Kd 0.376471 0.431373 0.454902
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/TwinR1.jpg
+
+newmtl Photo_Texture
+Ka 0.000000 0.000000 0.000000
+Kd 0.266667 0.286275 0.286275
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Photo_Texture.jpg
+
+newmtl TwinFront1
+Ka 0.000000 0.000000 0.000000
+Kd 0.572549 0.615686 0.615686
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/TwinFront1.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Photo_Texture2
+Ka 0.000000 0.000000 0.000000
+Kd 0.290196 0.301961 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Photo_Texture2.jpg
+
+newmtl Photo_Texture3
+Ka 0.000000 0.000000 0.000000
+Kd 0.294118 0.301961 0.294118
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Photo_Texture3.jpg
+
+newmtl Photo_Texture11
+Ka 0.000000 0.000000 0.000000
+Kd 0.639216 0.635294 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Photo_Texture11.jpg
+
+newmtl Photo_Texture11_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.639216 0.635294 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Photo_Texture11_1_.jpg
+
+newmtl Photo_Texture8
+Ka 0.000000 0.000000 0.000000
+Kd 0.478431 0.498039 0.454902
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Photo_Texture8.jpg
+
+newmtl Photo_Texture7
+Ka 0.000000 0.000000 0.000000
+Kd 0.462745 0.474510 0.431373
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Photo_Texture7.jpg
+
+newmtl Photo_Texture4
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.501961 0.490196
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Photo_Texture4.jpg
+
+newmtl Twin6cut
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.721569 0.658824
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin6cut.jpg
+
+newmtl Twin6cut1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.721569 0.658824
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin6cut1_.jpg
+
+newmtl Twin6cut2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.721569 0.658824
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin6cut2_.jpg
+
+newmtl Twin6cut3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.721569 0.658824
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin6cut3_.jpg
+
+newmtl Twin6cut4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.721569 0.658824
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin6cut4_.jpg
+
+newmtl Twin___1
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.607843 0.572549
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin___1.jpg
+
+newmtl Twin6cut5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.721569 0.658824
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin6cut5_.jpg
+
+newmtl Twin6cut6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.721569 0.658824
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin6cut6_.jpg
+
+newmtl Twin6cut7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.721569 0.658824
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin6cut7_.jpg
+
+newmtl Twin___1_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.607843 0.572549
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin___1_1_.jpg
+
+newmtl Twin___1_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.607843 0.572549
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin___1_2_.jpg
+
+newmtl Twin___1_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.607843 0.572549
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin___1_3_.jpg
+
+newmtl Twin6cut8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.721569 0.658824
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin6cut8_.jpg
+
+newmtl Twin___1_4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.607843 0.572549
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin___1_4_.jpg
+
+newmtl Twin___1_5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.607843 0.572549
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin___1_5_.jpg
+
+newmtl Twin6cut9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.721569 0.658824
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin6cut9_.jpg
+
+newmtl Twin___1_6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.607843 0.572549
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin___1_6_.jpg
+
+newmtl Twin___1_7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.607843 0.572549
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin___1_7_.jpg
+
+newmtl Twin___1_8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.607843 0.572549
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin___1_8_.jpg
+
+newmtl Twin6cut10_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.721569 0.658824
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin6cut10_.jpg
+
+newmtl Twin6cut11_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.721569 0.658824
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin6cut11_.jpg
+
+newmtl Twin6cut12_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.721569 0.658824
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin6cut12_.jpg
+
+newmtl Twin6cut13_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.721569 0.658824
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin6cut13_.jpg
+
+newmtl Twin6cut14_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.721569 0.658824
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin6cut14_.jpg
+
+newmtl Twin6cut15_
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.721569 0.658824
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin6cut15_.jpg
+
+newmtl Twin___1_9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.607843 0.572549
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin___1_9_.jpg
+
+newmtl Twin___1_10_
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.607843 0.572549
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin___1_10_.jpg
+
+newmtl Twin___1_11_
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.607843 0.572549
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin___1_11_.jpg
+
+newmtl Twin___1_12_
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.607843 0.572549
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin___1_12_.jpg
+
+newmtl Twin___1_13_
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.607843 0.572549
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin___1_13_.jpg
+
+newmtl Twin___1_14_
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.607843 0.572549
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin___1_14_.jpg
+
+newmtl Twin___1_15_
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.607843 0.572549
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin___1_15_.jpg
+
+newmtl Twin___1_16_
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.607843 0.572549
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Twin___1_16_.jpg
+
+newmtl TwinFront1_2_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.619608 0.607843
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/TwinFront1_2_3_.jpg
+
+newmtl TwinFront1_2_4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.619608 0.607843
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/TwinFront1_2_4_.jpg
+
+newmtl TwinFront1_2_5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.619608 0.607843
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/TwinFront1_2_5_.jpg
+
+newmtl TwinFront1_2_6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.619608 0.607843
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/TwinFront1_2_6_.jpg
+
+newmtl TwinFront1_2_7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.619608 0.607843
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/TwinFront1_2_7_.jpg
+
+newmtl TwinFront1_2_8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.619608 0.607843
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/TwinFront1_2_8_.jpg
+
+newmtl TwinFront1_2_9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.619608 0.607843
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/TwinFront1_2_9_.jpg
+
+newmtl Photo_Texture4_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.501961 0.490196
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Photo_Texture4_1_.jpg
+
+newmtl Photo_Texture4_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.501961 0.490196
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Photo_Texture4_2_.jpg
+
+newmtl Photo_Texture6
+Ka 0.000000 0.000000 0.000000
+Kd 0.466667 0.509804 0.470588
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Photo_Texture6.jpg
+
+newmtl Photo_Texture5
+Ka 0.000000 0.000000 0.000000
+Kd 0.450980 0.470588 0.431373
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Photo_Texture5.jpg
+
+newmtl Photo_Texture9
+Ka 0.000000 0.000000 0.000000
+Kd 0.439216 0.462745 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Photo_Texture9.jpg
+
+newmtl Photo_Texture9_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.439216 0.462745 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Photo_Texture9_1_.jpg
+
+newmtl Photo_Texture9_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.439216 0.462745 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Photo_Texture9_2_.jpg
+
+newmtl Photo_Texture10
+Ka 0.000000 0.000000 0.000000
+Kd 0.517647 0.537255 0.486275
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/Photo_Texture10.jpg
+
+newmtl TwinCAGO
+Ka 0.000000 0.000000 0.000000
+Kd 0.309804 0.345098 0.321569
+Ks 0.330000 0.330000 0.330000
+map_Kd TenjinTwinBuilding/TwinCAGO.jpg
+
